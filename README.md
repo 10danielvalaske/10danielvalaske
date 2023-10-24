@@ -1,4 +1,4 @@
-### Hi there 👋
+### Daniel Valaske. Colégio Estadual da Colônia Murici.
 
 <!--
 **10danielvalaske/10danielvalaske** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
